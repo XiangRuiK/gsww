@@ -7,17 +7,19 @@
 
 #### 使用说明
 
-将ShuJiurl替换为想要爬取的书籍的目录页url即可。比如左传是：https://so.gushiwen.cn/guwen/book_46653FD803893E4F699E8628DEAEE3C0.aspx
-
+**将ShuJiurl替换为想要爬取的书籍的目录页url即可。比如左传是：https://so.gushiwen.cn/guwen/book_46653FD803893E4F699E8628DEAEE3C0.aspx
+**
 
 #### 输出示例
 <img width="254" alt="图片" src="https://github.com/XiangRuiK/gsww/assets/61548993/fe4a15ce-4232-4188-81f6-f83802176542">
 
 
+**最终会生成一个文件名为"书籍名.txt"的文件，内容为所有章节原文和译文的合集，每一章之间以"章节名：……"隔断，首行给出文档包含的中文字符总数**
 
-内容为所有章节原文和译文的合集，每一章之间以"章节名：……"隔断
 
 例如：
+
+这里包含了《左传》的原文和译文，共计538273个中文字符.
 
 章节名: 隐公元年
 【经】
