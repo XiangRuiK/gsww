@@ -1,4 +1,4 @@
-# 古诗文网译文古籍爬虫
+<img width="293" alt="图片" src="https://github.com/XiangRuiK/gsww/assets/61548993/3411d4b4-2e10-4dac-9156-f944cd132820"># 古诗文网译文古籍爬虫
 
 #### 介绍
 古诗文网的古籍译文爬虫，输入书籍目录页url，可获取全书译文及原文。
@@ -11,7 +11,8 @@
 
 
 #### 输出示例
-![Uploading 图片.png…]()
+<img width="254" alt="图片" src="https://github.com/XiangRuiK/gsww/assets/61548993/fe4a15ce-4232-4188-81f6-f83802176542">
+
 
 
 内容为所有章节原文和译文的合集，每一章之间以"章节名：……"隔断
