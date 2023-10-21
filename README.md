@@ -11,7 +11,7 @@
 
 
 #### 输出示例
-<img width="279" alt="图片" src="https://github.com/XiangRuiK/gsww/assets/61548993/aac44038-8ee8-4639-82c3-5b4185c7052f">
+![Uploading 图片.png…]()
 
 
 内容为所有章节原文和译文的合集，每一章之间以"章节名：……"隔断
